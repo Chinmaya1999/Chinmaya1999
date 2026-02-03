@@ -10,9 +10,9 @@
 
 <!-- Profile Stats -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=blue&style=flat-square" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=social" alt="followers" />
-  <img src="https://img.shields.io/github/stars/YOUR_USERNAME?label=Stars&style=social" alt="stars" />
+  <img src="https://komarev.com/ghpvc/?username=Chinmaya1999&label=Profile%20Views&color=blue&style=flat-square" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/Chinmaya1999?label=Followers&style=social" alt="followers" />
+  <img src="https://img.shields.io/github/stars/Chinmaya1999?label=Stars&style=social" alt="stars" />
 </p>
 
 <!-- Divider -->
