@@ -22,6 +22,8 @@
 ---
 
 ## 🚀 About Me
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="41b9e68c-66a7-4041-a091-831eceb7ec68" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 <div align="center">
   
 I'm a **Cloud DevOps Engineer & Full-Stack Developer** with expertise in designing, building, and maintaining scalable cloud infrastructure and web applications. I bridge the gap between development and operations to deliver efficient, reliable, and scalable solutions.
